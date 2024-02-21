@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*-------------haeder--------------*/
+.header {
+}
+.header__container {
+}
+.header__container__inner {
+}
+.container__inner__n2 {
+    display: flex;
+    align-items: center;
+    background-image: url("./Rectangle\ 678\ \(1\).png");
+    background-color: #F3D7B7;
+    background-blend-mode: overlay;
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 40px;
+}
+.link__logo {
+}
+.header__list {
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    margin-left: auto;
+}
+.header__item {
+}
+.link__item {
+    text-decoration: none;
+    color: black;
+}.coffe {
+}
+.coffe__cantainer {
+}
+.coffe__cantainer__inner {
+   
+    display: flex;
+    padding-bottom: 100px;
+    padding-left: 150px;
+}
+.coffe__text {
+    margin-top: 116px;
+}
+.link__coffe-text {
+    color: white;
+    background-color: #0A775F;
+    text-decoration: none;
+    border-radius: 100px;
+    padding: 16px 24px;
+}
+.coffe__out{
+    background-color: #F3D7B7;
+    background-image: url('./images/Rectangle.png');
+    background-blend-mode: overlay;
+}
+.coffe__img {
+     background-image: url('./Rectangle\ 679\ \(4\).svg'); 
+    background-repeat: no-repeat;
+    background-size: auto;
+     width: 717px; 
+     height: 596px;
+    margin-left: 180px;
+    position: relative;
+    
+}
+.coffe__img__logo {
+    position: absolute;
+    top: -80px;
+    left: -100px;
+}
+.h1__coffe{
+    font-size: 64px;
+    width: 400px;
+}
+.p__coffe{
+    width: 380px;
+    margin-bottom: 64px;
+    margin-top: 24px
+    ;
+}
+.header__out{
+    background-image: url('./images/Rectangle.png');
+    background-color: #F3D7B7;
+    background-blend-mode: overlay;
+}
+.coffe__out{
+
+}
+.coffe__img-coffe-box {
+
+}
+.coffe__img-coffe {
+}
+ /* --------------------------------------------- */
+ .collection {
+  
+
+   
+}
+.collection__out {
+    background-image: url("./images/Rectangle.png");
+    background-color: #F8F8F2;
+    background-blend-mode: overlay;
+}
